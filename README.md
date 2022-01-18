@@ -1,2 +1,1 @@
-# HangMan_PyQt5
-HangMan with PyQt5.
+Download PyQt5 via pip and that's it.
